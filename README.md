@@ -73,86 +73,38 @@ Ensure data quality and consistency before proceeding to analysis.
   Dataset is skewed toward certain coupon types (e.g., Coffee House)
 
 # 6. Bar Coupon Analysis
-**6.1. Data Subset**
-Filter dataset for Bar coupons
 
-**Purpose:**
-Focus analysis on a single coupon type for deeper insights
+Frequent bar visitors are significantly more likely to accept coupons, indicating strong behavioral alignment.
+Drivers over 25 with regular bar visits show higher acceptance rates, suggesting age and lifestyle influence decisions.
+Customers without kids (more flexible/social context) are more responsive to bar coupons.
+Combining behavior + demographics (age, passenger, occupation) further improves targeting effectiveness.
 
-**6.2. Acceptance Rate**
-Calculate acceptance rate for bar coupons
+**Key Takeaway**
 
-**Goal:**
-Compare with overall acceptance
-
-**6.3. Behavioral Analysis**
-**Bar Visit Frequency**
-Compare acceptance: 
- ≤3 visits/month
- 3 visits/month
-
-**Age-Based Analysis**
-Compare: Age >25 vs others
-
-**Passenger Type**
-Compare: With kids vs without kids 
-
-**Occupation**
-Compare: Farming vs non-farming
-
-**Key Insight Theme:**
-Behavior + lifestyle influence acceptance
-
-**6.4. Advanced Segmentation**
-Combine multiple conditions: Frequent visitors, Age, Passenger type, Income
-
-Goal:
-Identify high-converting customer segments
-
-**6.5. Key Insights (Bar Coupons)**
-
-Frequent bar-goers → higher acceptance
-
-Social/flexible lifestyle → higher engagement
-
-Demographics enhance targeting
+Bar coupon acceptance is highest among socially active, frequent bar-goers, making behavioral targeting the most effective strategy.
 
 # 7. Independent Investigation: Coffee Coupons
 
-**7.1. Data Subset:** Filter dataset for Coffee House coupons
+Frequent coffee house visitors have the highest acceptance rates, showing strong habit-driven behavior.
+Acceptance varies by time of day, with higher engagement during typical coffee consumption hours (e.g., morning).
+Drivers traveling alone or with friends are more likely to accept coupons, indicating social context matters.
+Customers who rarely visit coffee houses show low engagement, suggesting weaker relevance of the offer.
 
-**7.2. Acceptance Rate:** Calculate overall coffee coupon acceptance
+**Key Takeaway**
 
-**7.3. Time-Based Analysis:** 
-
-Acceptance by time of day
-  Insight Focus: Morning vs evening behavior
-
-**7.4. Passenger Analysis:**
-
-Acceptance by passenger type
-  Insight Focus: Social vs family context
-
-**7.5. Behavioral Analysis:**
-
-Acceptance by coffee visit frequency
-  Insight Focus: Habit-driven behavior
-
-**7.6. Key Insights (Coffee Coupons):**
-
-Frequent coffee drinkers → highest acceptance
-Time of day matters (morning stronger)
-Social context influences decisions
+Coffee coupon acceptance is driven by routine behavior and timing, with frequent users in flexible or social settings showing the highest engagement.
 
 # 8. Key Findings:
 
-Overall coupon acceptance rate: 56.84%
+**_Overall coupon acceptance rate: 56.84% indicating moderate engagement._**
 
 **Bar Coupons**
 Overall acceptance: 41%
 Frequent bar visitors (>3 times/month): 76.88%
 Infrequent visitors (≤3 times/month): 37.06%
 Impact: +39% higher acceptance for frequent visitors
+
+**_Behavioral patterns are the strongest predictor. Frequent coffee/bar visitors show significantly higher acceptance rates._**
 
 **Age + Behavior Impact**
 Frequent bar-goers (age >25): 69.52%
@@ -171,18 +123,12 @@ Rare visitors: 48.2%
 Never visit: 18.9%
 Impact: Regular users are ~3.5× more likely to accept
 
+**_Time of day and passenger type influence decisions. Younger users, non-family travelers, and lower/mid-income groups show higher engagement._**
+
 **Time of Day**
 Highest acceptance: 10 AM (~64%)
 Lowest acceptance: 10 PM (~42%)
 Impact: Timing drives ~20% variation
-
-
-# Key Findings
-Overall coupon acceptance rate is ~57%, indicating moderate engagement.
-
-Behavioral patterns are the strongest predictor. Frequent coffee/bar visitors show significantly higher acceptance rates.
-
-Time of day and passenger type influence decisions. Younger users, non-family travelers, and lower/mid-income groups show higher engagement.
 
 # Conclusion
 Customers who already engage in activities like visiting bars or coffee shops are significantly more likely to accept related coupons. For example, frequent bar visitors had nearly double the acceptance rate compared to infrequent visitors. Similarly, regular coffee drinkers were far more responsive than those who never visit coffee shops.
