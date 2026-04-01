@@ -16,7 +16,7 @@ Collected via Amazon Mechanical Turk survey
 Contains driving scenarios + coupon decisions
 
   a. Raw Data: 
-  b. Python File: Practical1_Jupyter Notebook 5.1.ipynb
+  b. Python File: [Practical1_Jupyter Notebook 5.1.ipynb](https://github.com/sanchitag22/CouponAnalysis5.1/blob/main/Practical1_Jupyter%20Notebook%205.1.ipynb)
 
 # 3. Data Loading and Overview
 **Tasks:**
