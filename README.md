@@ -1,5 +1,4 @@
 # CouponAnalysis5.1
-Coupon Analysis
 
 # 1. Problem Statement
 
