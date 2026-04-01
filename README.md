@@ -108,13 +108,13 @@ Impact: +39% higher acceptance for frequent visitors
 **_Behavioral patterns are the strongest predictor. Frequent coffee/bar visitors show significantly higher acceptance rates._**
 
 **Age + Behavior Impact**
-  1. Frequent bar-goers (age >25): 69.52%
+  1. Frequent bar goers (age >25): 69.52%
   2. Others: 33.50%
      
 Impact: +36% higher acceptance
 
 **Lifestyle Impact**
-  1. Frequent bar-goers without kids: 71.32%
+  1. Frequent bar goers without kids: 71.32%
   2. Others: 29.60%
      
 Impact: +41% higher acceptance
@@ -127,13 +127,18 @@ Impact: +41% higher acceptance
      
 Impact: Regular users are ~3.5× more likely to accept
 
-**_Time of day and passenger type influence decisions. Younger users, non-family travelers, and lower/mid-income groups show higher engagement._**
+**_Time of day and passenger type influence decisions. Younger users, non family travelers, and lower/mid income groups show higher engagement._**
 
 **Time of Day**
   1. Highest acceptance: 10 AM (~64%)
   2. Lowest acceptance: 10 PM (~42%)
      
 Impact: Timing drives ~20% variation
+
+# Statistical Interpretation
+  1. Behavioral variables (CoffeeHouse frequency) show the strongest correlation with acceptance.
+  2. Contextual factors (time, passenger type) further influence customer decisions.
+  3. The relationship between frequency and acceptance suggests a positive trend (monotonic increase),  higher usage leads to higher acceptance.
 
 # Conclusion
 Customers who already engage in activities like visiting bars or coffee shops are significantly more likely to accept related coupons. For example, frequent bar visitors had nearly double the acceptance rate compared to infrequent visitors. Similarly, regular coffee drinkers were far more responsive than those who never visit coffee shops.
@@ -142,4 +147,17 @@ Demographics and context also play an important role. Customers over 25, those w
 
 On the other hand, customers who do not typically engage in the activity or whose lifestyle does not align with the coupon (e.g., traveling with kids or rarely visiting bars/coffee shops) are much less likely to accept offers.
 
-Overall, the key takeaway is that targeted and behavior-driven marketing is far more effective than generic promotions. By focusing on the right customer segments at the right time, businesses can significantly improve coupon acceptance and engagement.
+Overall, the key takeaway is that targeted and behavior driven marketing is far more effective than generic promotions. By focusing on the right customer segments at the right time, businesses can significantly improve coupon acceptance and engagement.
+
+# Actionable Recommendations
+  1. Target frequent coffee consumers for higher ROI
+  2. Optimize coupon timing (e.g., morning hours)
+  3. Personalize offers based on passenger context
+  4. Use behavioral segmentation instead of broad campaigns
+
+# Next Steps
+  1. Build a predictive model to identify high probability customers
+  2. Run A/B tests on targeted vs general campaigns
+  3. Incorporate real time signals (location, time, past behavior)
+  4. Expand analysis to other coupon types for broader strategy
+
