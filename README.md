@@ -5,11 +5,10 @@
 Objective:
 The goal of this analysis is to analyze customer behavior to understand which factors influence coupon acceptance. Using exploratory data analysis (EDA), we identify patterns across demographics, behavior, and context to determine which customers are most likely to accept coupons.
 
-We aim to:
-
-Understand patterns in customer behavior
-Analyze how contextual, demographic, and behavioral variables impact acceptance
-Generate actionable insights for targeted marketing strategies
+Goal:
+  1. Understand patterns in customer behavior
+  2. Analyze how contextual, demographic, and behavioral variables impact acceptance
+  3. Generate actionable insights for targeted marketing strategies
 
 # 2.Source: 
 UCI Machine Learning Repository
