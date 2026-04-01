@@ -1,4 +1,4 @@
-# CouponAnalysis5.1
+# Coupon Analysis 5.1
 
 # 1. Problem Statement
 
@@ -150,7 +150,7 @@ On the other hand, customers who do not typically engage in the activity or whos
 
 Overall, the key takeaway is that targeted and behavior driven marketing is far more effective than generic promotions. By focusing on the right customer segments at the right time, businesses can significantly improve coupon acceptance and engagement.
 
-# Actionable Recommendations
+# Recommendations
   1. Target frequent coffee consumers for higher ROI
   2. Optimize coupon timing (e.g., morning hours)
   3. Personalize offers based on passenger context
