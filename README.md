@@ -10,7 +10,7 @@ Goal:
   2. Analyze how contextual, demographic, and behavioral variables impact acceptance
   3. Generate actionable insights for targeted marketing strategies
 
-# 2.Source: 
+# 2. Source: 
 UCI Machine Learning Repository
 Collected via Amazon Mechanical Turk survey
 Contains driving scenarios + coupon decisions
