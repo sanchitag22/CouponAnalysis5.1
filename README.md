@@ -15,6 +15,9 @@ UCI Machine Learning Repository
 Collected via Amazon Mechanical Turk survey
 Contains driving scenarios + coupon decisions
 
+  a. Raw Data: 
+  b. Python File: Practical1_Jupyter Notebook 5.1.ipynb
+
 # 3. Data Loading and Overview
 **Tasks:**
   1. Import required libraries:pandas, matplotlib, seaborn
