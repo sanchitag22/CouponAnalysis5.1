@@ -99,35 +99,40 @@ Coffee coupon acceptance is driven by routine behavior and timing, with frequent
 **_Overall coupon acceptance rate: 56.84% indicating moderate engagement._**
 
 **Bar Coupons**
-Overall acceptance: 41%
-Frequent bar visitors (>3 times/month): 76.88%
-Infrequent visitors (≤3 times/month): 37.06%
+  1. Overall acceptance: 41%
+  2. Frequent bar visitors (>3 times/month): 76.88%
+  3. Infrequent visitors (≤3 times/month): 37.06%
+     
 Impact: +39% higher acceptance for frequent visitors
 
 **_Behavioral patterns are the strongest predictor. Frequent coffee/bar visitors show significantly higher acceptance rates._**
 
 **Age + Behavior Impact**
-Frequent bar-goers (age >25): 69.52%
-Others: 33.50%
+  1. Frequent bar-goers (age >25): 69.52%
+  2. Others: 33.50%
+     
 Impact: +36% higher acceptance
 
 **Lifestyle Impact**
-Frequent bar-goers without kids: 71.32%
-Others: 29.60%
+  1. Frequent bar-goers without kids: 71.32%
+  2. Others: 29.60%
+     
 Impact: +41% higher acceptance
 
 **Coffee Coupons**
-Overall acceptance: 49.92%
-Frequent coffee visitors (4–8 times): 68.6%
-Rare visitors: 48.2%
-Never visit: 18.9%
+  1. Overall acceptance: 49.92%
+  2. Frequent coffee visitors (4–8 times): 68.6%
+  3. Rare visitors: 48.2%
+  4. Never visit: 18.9%
+     
 Impact: Regular users are ~3.5× more likely to accept
 
 **_Time of day and passenger type influence decisions. Younger users, non-family travelers, and lower/mid-income groups show higher engagement._**
 
 **Time of Day**
-Highest acceptance: 10 AM (~64%)
-Lowest acceptance: 10 PM (~42%)
+  1. Highest acceptance: 10 AM (~64%)
+  2. Lowest acceptance: 10 PM (~42%)
+     
 Impact: Timing drives ~20% variation
 
 # Conclusion
